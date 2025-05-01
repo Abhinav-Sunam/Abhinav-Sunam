@@ -5,5 +5,6 @@
 👾 Making games, projects & errors — then fixing 'em like a boss
 📦 Sharing my code, growth & experiments here
 🌸 Currently obsessed with pastel vibes, pixel art, and learning full-stack dev!
+hehe
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-sunam)](https://github.com/abhinav-sunam/github-readme-stats)
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-sunam)](https://github.com/abhinav-sunam/github-readme-stats)
