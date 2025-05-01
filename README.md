@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi, I'm Abhinav!<br>💻 BTech CSE Student at VIT-AP<br>🎨 Building cute & quirky websites while learning HTML, CSS & JS<br>🧠 Exploring DSA & Python with passion (and a dash of chaos)<br>👾 Making games, projects & errors — then fixing 'em like a boss<br>📦 Sharing my code, growth & experiments here<br>🌸 Currently obsessed with pastel vibes, pixel art, and learning full-stack dev!
+Hey there! I'm Abhinav — a BTech CSE student at VIT-AP 👨🏻‍💻
+I love bringing creativity into code — whether it's websites, games, or the occasional chaos bug 🐞✨
+
+🎨 Currently building cute & quirky websites with HTML, CSS & JS
+
+🧠 Exploring DSA & Python (with coffee + determination)
+
+🎮 Making fun side-projects, breaking stuff, and learning along the way
+
+🌸 Obsessed with pastel vibes, pixel art, and clean UI
+
+🎧 Also a music producer — mixing code & beats since 2020!
 
 
 ## 🌐 Socials:
